@@ -1,4 +1,4 @@
-# github-final-project
+# smart-interest-calculator
 A sleek and responsive financial calculator toolkit designed with modern web technologies.
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 Input:
